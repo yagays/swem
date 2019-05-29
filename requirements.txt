@@ -1,0 +1,3 @@
+mecab-python3==0.996.2
+numpy==1.16.4
+gensim==3.7.0
